@@ -1,0 +1,67 @@
+/*
+Author: Raj Vekeria
+Helpful Links:
+https://www.w3schools.com/css/css_table.asp
+https://www.granneman.com/webdev/coding/css/centertables
+https://www.w3schools.com/cssref/pr_text_text-align.ASP
+https://www.w3schools.com/cssref/pr_font_font-family.asp
+*/
+body{
+    background-color:#838996;
+    text-align: center;
+}
+h1{
+    font-family:Tahoma;
+    font-size:60px;
+    color:#E5E4E2;
+    text-align: center;
+}
+h2{
+    font-family:Tahoma;
+    font-style:italic;
+    font-size:20px;
+    color:#E5E4E2;
+    text-align: center;
+}
+h3{
+    font-family:Tahoma;
+    font-style:italic;
+    font-size:15px;
+    color:#E5E4E2; 
+    text-align: center;
+}
+p{
+    font-family:Tahoma;
+    font-size:20px;
+    color:#E5E4E2;
+    text-align: center;
+}
+img{
+    width:1000px;
+    height:560px;
+    text-align: center;
+}
+button {
+	font-size: 45px;
+    color:#E5E4E2;
+    background-color:#838993;
+    text-align: center;
+}
+table {
+    margin: auto;
+    width:1000px;
+    height:560px;
+    font-family:Tahoma;
+    color:#E5E4E2;
+    font-size:20px;
+}
+tr {
+    text-align: center;
+}
+td {
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+}
