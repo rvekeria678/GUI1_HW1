@@ -1,10 +1,18 @@
 /*
-Author: Raj Vekeria
-Helpful Links:
-https://www.w3schools.com/css/css_table.asp
-https://www.granneman.com/webdev/coding/css/centertables
-https://www.w3schools.com/cssref/pr_text_text-align.ASP
-https://www.w3schools.com/cssref/pr_font_font-family.asp
+    File: style.css
+    GUI Assignment: Creating First Web Page
+    Raj Vekeria, UMass Lowell Computer Science, rvekeria@cs.uml.edu
+    Copyright (c) 2021 by Raj. All rights reserved. May be freely copied or
+    excerpted for educational purposes with credit to the author.
+    updated by RV on September 16, 2021 at 9:28 AM
+
+    The purpose of this file is to style the elements of the webpages
+
+    Helpful Links:
+    https://www.w3schools.com/css/css_table.asp
+    https://www.granneman.com/webdev/coding/css/centertables
+    https://www.w3schools.com/cssref/pr_text_text-align.ASP
+    https://www.w3schools.com/cssref/pr_font_font-family.asp
 */
 body{
     background-color:#838996;
